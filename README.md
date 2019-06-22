@@ -1,2 +1,2 @@
 # BasicCalculator
-Basic Calculator
+Coded by Taylan Alp 'SatanJager' Mühür for educational purposes.
